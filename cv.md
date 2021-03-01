@@ -25,5 +25,6 @@ function createPhoneNumber(numbers){
 * Computer Science Basics;
 * Rsschool;
 * HTML для начинающих (https://ru.code-basics.com/)
+* CSS для начинающих (https://ru.code-basics.com/)
 ### 7. English language
 *Level - A2. I have experience of written and oral communication with foreign specialists during my work. I take courses to improve the level of the language.*
