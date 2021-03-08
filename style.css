@@ -1,0 +1,33 @@
+html{
+    background-color: rgb(3, 3, 29);
+}
+header{
+    background-color: rgb(5, 3, 61);
+    color: rgb(199, 189, 245);
+    max-height: 190px;
+}
+main,
+footer{
+    background-color: rgb(226, 226, 226);
+    color: rgb(18, 1, 94);
+}
+header,
+main,
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    border: 2px solid #100152;
+    padding: 10px;
+}
+.foto{
+    margin: 10px;
+    padding: 10px;
+   }
+h1{
+    position: relative;
+    left: 200px;
+    bottom: 80px;
+    margin: 10px;
+    padding: 10px;
+}
